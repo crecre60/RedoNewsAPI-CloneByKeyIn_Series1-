@@ -9,7 +9,7 @@ import Foundation
 
 struct Constants {
       static let baseURL = "https://newsapi.org"
-      static let APIKey = ""
+      static let APIKey = "990dc0cb609a4947bd0339fb364e703f"
 }
 
 class APICaller {
